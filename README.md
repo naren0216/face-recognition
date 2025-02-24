@@ -1,10 +1,10 @@
-# Django Portfolio Website
+# Face Recognition using OpenCV
 
-A personal portfolio website built using **Django**, **HTML**, and **CSS** to showcase projects, skills, and achievements in a structured and responsive format.
+A real-time face recognition system using **OpenCV** and **Python** to detect faces from a webcam feed using Haar cascade classifiers.
 
 ## Features
-- **Home Page:** Introduction and overview
-- **About Page:** Personal details and skills
-- **Projects Page:** Display of past work
-- **Responsive Design:** Works on all devices
-- **Dynamic Content:** Managed with Django
+- Real-time face detection using OpenCV
+- Uses Haar cascade for frontal face recognition
+- Draws bounding boxes around detected faces
+- Adjustable brightness and contrast settings
+- Press 'q' to exit the application
